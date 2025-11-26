@@ -28,9 +28,10 @@ This project performs an end-to-end customer segmentation analysis using **Pytho
 ## 📂 Project Structure
 
 Customer_Segmentation/
-│── Customer_segmentation.ipynb # Main analysis notebook
-│── README.md # Project documentation
-│── dataset.csv (optional) # Input dataset
+│── Customer_segmentation.ipynb    # Main analysis notebook
+│── README.md                      # Project documentation
+│── dataset.csv                    # Input dataset
+
 
 
 
